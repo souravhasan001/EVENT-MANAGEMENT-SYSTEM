@@ -1,2 +1,1 @@
-#EVENT MANAGEMENT SYSTEM
- Java-swing-project
+#Java-swing-project
