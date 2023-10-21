@@ -1,2 +1,2 @@
-# Java-swing-project
-EVENT MANAGEMENT SYSTEM
+#EVENT MANAGEMENT SYSTEM
+ Java-swing-project
